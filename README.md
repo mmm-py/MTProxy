@@ -1,6 +1,16 @@
 ---
 
 ## 🚀 机器人软件开发服务
+<p align="center">
+  <a href="https://t.me/NBZAI">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="100" alt="Telegram 联系">
+  </a>
+</p>
+
+<p align="center">
+  🤖 机器人软件开发  
+  📩 联系方式：TG @NBZAI
+</p>
 
 <p align="center">
   <a href="https://t.me/NBZAI">
