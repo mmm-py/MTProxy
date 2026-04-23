@@ -1,6 +1,9 @@
 ---
 
 ## 🚀 机器人软件开发服务
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-联系我-blue?logo=telegram)](https://t.me/NBZAI)
 <p align="center">
   <a href="https://t.me/NBZAI">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="100" alt="Telegram 联系">
