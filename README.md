@@ -102,7 +102,11 @@ tg://proxy?server=<主机/IP>&port=<PORT>&secret=<SECRET>
 - 当前脚本会自动写入 `kernel.pid_max = 65535` 并尝试重置 `ns_last_pid`，用于规避该问题
 
 ## 卸载
+在 SSH 里执行
 
+```bash
+curl -fsSL 'https://raw.githubusercontent.com/mmm-py/MTProxy/main/uninstall_mtproxy.sh' -o uninstall_mtproxy.sh && chmod +x uninstall_mtproxy.sh && sudo ./uninstall_mtproxy.sh
+```
 ```bash
 sudo ./uninstall_mtproxy.sh
 ```
