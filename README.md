@@ -1,3 +1,19 @@
+---
+
+## 🚀 机器人软件开发服务
+
+<p align="center">
+  <a href="https://t.me/NBZAI">
+    <img src="https://img.shields.io/badge/Telegram-@NBZAI-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
+
+支持：
+- 🤖 自动化机器人开发
+- 💬 TG / Discord / Web3 Bot
+- ⚡ 定制功能开发
+
+---
 # MTProxy 快速使用
 
 ## 仓库与 GitHub
