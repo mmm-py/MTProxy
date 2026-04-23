@@ -9,7 +9,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="100" alt="Telegram 联系">
   </a>
 </p>
-[![Telegram](https://img.shields.io/badge/Telegram-联系我-blue?logo=telegram)](https://t.me/NBZAI)
+
 <p align="center">
   🤖 机器人软件开发  
   📩 联系方式：TG @NBZAI
