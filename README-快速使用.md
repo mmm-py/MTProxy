@@ -4,32 +4,19 @@
 
 - 代码仓库: [https://github.com/mmm-py/MTProxy](https://github.com/mmm-py/MTProxy)
 
-**首次在本机把代码推上去**（在仓库根目录、已 `git init` 且已 `commit` 时）:
 
-```bash
-git branch -M main
-git remote add origin https://github.com/mmm-py/MTProxy.git
-# 若已添加过 origin，可改用: git remote set-url origin https://github.com/mmm-py/MTProxy.git
-git push -u origin main
-```
-
-需已登录 GitHub（HTTPS 会提示账号/令牌，或改用 SSH：`git@github.com:mmm-py/MTProxy.git`）。
-
-**直链**（`main` 分支下安装脚本，用于服务器下载）:
-
-`https://raw.githubusercontent.com/mmm-py/MTProxy/main/install_mtproxy.sh`
 
 ## 服务器上一键下载并运行
 
 本脚本是**交互式**且**必须**在真实终端里跑，**不要**用 `curl ... | bash`（无 TTY 会报错退出）。
 
-在 SSH 里执行（一行，下载 → 可执行 → root 跑安装）:
+在 SSH 里执行
 
 ```bash
 curl -fsSL 'https://raw.githubusercontent.com/mmm-py/MTProxy/main/install_mtproxy.sh' -o install_mtproxy.sh && chmod +x install_mtproxy.sh && sudo ./install_mtproxy.sh
 ```
 
-首次建议先 `less install_mtproxy.sh` 看一遍再执行（任意远程脚本都建议如此）。
+
 
 ## 生成的文件
 
@@ -90,3 +77,4 @@ tg://proxy?server=<主机/IP>&port=<PORT>&secret=<SECRET>
 ```bash
 sudo ./uninstall_mtproxy.sh
 ```
+
